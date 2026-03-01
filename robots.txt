@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gmapsranker.github.io/rampart-roofing-inc-21f36a75-821567w5/sitemap.xml
+Sitemap: https://rampart-roofing-inc-21f36a75-821567w5.pages.dev/sitemap.xml
